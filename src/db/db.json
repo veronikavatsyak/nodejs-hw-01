@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "b3efb82b-a7d2-4669-98d0-aaf2ee46f28a",
+    "name": "Mr. Clayton Kreiger",
+    "phone": "1-860-204-7289",
+    "email": "Karine_Thiel@gmail.com",
+    "job": "International Operations Planner"
+  },
+  {
+    "id": "517ad166-7f19-44a4-8ef6-eabd40437d07",
+    "name": "Fannie Wyman",
+    "phone": "517.311.5837 x77651",
+    "email": "Catalina60@gmail.com",
+    "job": "Global Implementation Supervisor"
+  },
+  {
+    "id": "f833c1ac-4ca8-448e-84a8-d6b2778a0396",
+    "name": "Robert Zieme",
+    "phone": "879.208.9029 x38464",
+    "email": "Magdalen_Yost@yahoo.com",
+    "job": "Regional Group Coordinator"
+  },
+  {
+    "id": "5ba0bd3e-db14-4694-ad0f-d4edfaec8f13",
+    "name": "Mrs. Florence Labadie",
+    "phone": "717.706.6254 x770",
+    "email": "Ruthie_Rowe@yahoo.com",
+    "job": "Dynamic Factors Developer"
+  },
+  {
+    "id": "92ae8ce4-5445-4b1f-a53f-20d3d254daab",
+    "name": "Glenda Cartwright",
+    "phone": "1-858-629-7491 x282",
+    "email": "Dominic_Crooks@gmail.com",
+    "job": "Future Web Designer"
+  },
+  {
+    "id": "ccae0a02-dd10-412f-9912-0167bf7a7f0a",
+    "name": "Angel Casper",
+    "phone": "585-851-4071 x6368",
+    "email": "Flo_Shanahan@yahoo.com",
+    "job": "Central Response Assistant"
+  }
+]
